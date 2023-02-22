@@ -1,24 +1,25 @@
-# About Project
-It is News webapp build using Reactjs and News api.
-it contains different categories of news.
 
-# Cloning and Testing
+# News-X Demo
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
 
-In the project directory, you can run:
 
-### `npm start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+https://user-images.githubusercontent.com/91516454/220617393-edd82e4c-4a22-448e-b299-84c6457d6f8a.mp4
 
-### `npm test`
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+#
+News-X is a news website built using ReactJs and News Api, website contains different
+category of news with infinite scroll feature.
+
+
+
+## Tech Stack
+
+**Frontend:** ReactJS
+
+**Backend:** News Api
+
+
+
